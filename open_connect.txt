@@ -1,0 +1,24 @@
+Giao thức dùng để giao tiếp giữa website và mạng xã hội
+
+1. Định nghĩa
+Giao thức dùng để giao tiếp giữa website và mạng xã hội là một tập hợp các quy tắc và phương thức giúp ứng dụng hoặc trang web kết nối, chia sẻ dữ liệu, xác thực người dùng với các nền tảng mạng xã hội như Facebook, Instagram, Twitter, LinkedIn, v.v. Các giao thức này thường dựa trên API (Application Programming Interface) để truyền tải dữ liệu một cách an toàn và hiệu quả.
+
+2. Tính chất / Đặc điểm
+- Bảo mật cao: Sử dụng cơ chế xác thực như OAuth để đảm bảo an toàn.
+- Tương tác nhanh chóng: Hỗ trợ giao tiếp theo thời gian thực.
+- Đa nền tảng: Có thể tích hợp trên nhiều thiết bị và hệ điều hành.
+- Dễ mở rộng: Cho phép các nhà phát triển thêm tính năng mà không cần thay đổi nhiều về cơ sở hạ tầng.
+- Quản lý quyền hạn: Chỉ cho phép truy cập những dữ liệu được cấp phép.
+
+3. Các loại giao thức phổ biến
+- OAuth (Open Authorization): Được sử dụng để cấp quyền truy cập vào tài khoản người dùng mà không cần chia sẻ mật khẩu.
+- OpenID Connect (OIDC): Mở rộng OAuth 2.0, cung cấp thông tin xác thực người dùng.
+- GraphQL: Giao thức truy vấn dữ liệu do Facebook phát triển, giúp truy vấn dữ liệu hiệu quả hơn so với REST API.
+- RESTful API: Giao thức phổ biến nhất cho việc trao đổi dữ liệu giữa các hệ thống.
+- Webhooks: Cơ chế giúp các ứng dụng phản hồi ngay lập tức khi có sự kiện xảy ra.
+
+4. Các cách tạo kết nối với mạng xã hội
+- Sử dụng SDK chính thức: Facebook, Instagram, Twitter cung cấp SDK giúp tích hợp dễ dàng.
+- Gọi API trực tiếp: Gửi yêu cầu HTTP đến endpoint của mạng xã hội.
+- Sử dụng OAuth 2.0: Để xác thực và lấy quyền truy cập vào tài khoản người dùng.
+- Tạo Webhooks: Để nhận thông báo khi có sự kiện mới từ mạng xã hội.
