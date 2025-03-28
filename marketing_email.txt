@@ -1,0 +1,22 @@
+1. Định nghĩa Email Marketing
+
+Email Marketing là hình thức tiếp thị của doanh nghiệp đến khách hàng thông qua email. Mục đích chính có thể là giới thiệu sản phẩm/dịch vụ, duy trì quan hệ khách hàng hoặc cung cấp thông tin quan trọng.
+2. Tính chất / Đặc điểm của Email Marketing
+
+- Tiết kiệm chi phí: So với các hình thức quảng cáo khác, email marketing rẻ hơn và có thể tiếp cận đúng đối tượng.
+- Tự động hóa: Dễ dàng thiết lập các chiến dịch gửi email tự động theo kế hoạch.
+- Cá nhân hóa: Email có thể được tùy chỉnh theo tên khách hàng, nhu cầu, lịch sử mối quan hệ.
+- Khả năng đo lường cao: Dễ theo dõi số lần mở email, nhấp vào link, tỉ lệ chuyển đổi.
+- Tính tuân thủ: Phải tuân thủ các quy định về chính sách email như CAN-SPAM, GDPR.
+3. Các loại Email Marketing
+
+- Email chào mừng: Gửi khi người dùng đăng ký tài khoản hoặc nhận bản tin.
+- Email quảng cáo / khuyến mãi: Giới thiệu sản phẩm, chương trình giảm giá.
+- Email nuôi dưỡng khách hàng tiềm năng: Gửi thông tin hữu ích để duy trì quan tâm.
+- Email giao dịch: Xác nhận đơn hàng, hóa đơn, thông báo quan trọng.
+- Email chăm sóc khách hàng: Hỏi thăm, thu thập đánh giá.
+4. Cách tạo Email Marketing
+
+- Sử dụng dịch vụ Email Marketing: Mailchimp, HubSpot, SendGrid, GetResponse.
+- Tạo template email HTML & CSS: Thiết kế email chính xác về giao diện.
+- Tích hợp API email vào hệ thống: Kết nối với SMTP, Amazon SES, hoặc Twilio SendGrid.
